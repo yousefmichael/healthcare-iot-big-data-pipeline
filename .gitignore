@@ -1,0 +1,15 @@
+﻿.env
+*.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+generated_data/
+*.csv
+*.jsonl
+*.parquet
+*.log
+airflow/logs/
+dbt_healthcare/target/
+dbt_healthcare/profiles.yml
+*.tmp
